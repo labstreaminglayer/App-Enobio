@@ -1,3 +1,8 @@
+== Warning ==
+
+This application is untested and uses and older SDK that is no longer supported by the manufacturer.
+The manufacturer now provides native LSL support directly in their [NIC2 software](https://www.neuroelectrics.com/solution/software-integrations/nic2). Please use the native support instead of this repository.
+
 == Usage ==
 
 The program is currently untested by should work with the current-generation Enobio dry/wireless EEG systems produced by Neuroelectrics (http://www.neuroelectrics.com/) / Starlab (http://starlab.es/).
